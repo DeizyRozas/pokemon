@@ -1,0 +1,63 @@
+.pokedex{
+    width: 320px;
+    height: 480px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: url(pokedex.png);
+    margin-left: 50px;
+    margin-top: 60px;
+    border-radius: 30px;
+    position: fixed;
+}
+
+body{
+    background-image: url(fondo.jpg);
+    opacity: 50;
+}
+.poke{
+    width: 800px;
+    display: inline-block;
+    
+    margin-left: 100px;
+}
+
+.info{ 
+    background-color: white;
+    width: 220px;
+    text-align: center;
+    margin-left: 65px;
+    margin-top: 118px;
+    border-radius: 20px;
+}
+h1{
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
+
+h3{
+    margin:0;
+    text-align: start;
+    display: inline-block;
+}
+h4{
+    margin:5px;
+    text-align: right;
+    display: inline-block;
+}
+
+img{
+    border:5px solid #edb825;
+    margin: 4px;
+    size: initial;
+    width: 140px;
+    border-radius: 20px;
+}
+
+.logo{
+    margin-left: 200px;
+    width: 390px;
+    background-color: transparent;
+    border-color: transparent;
+}
